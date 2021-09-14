@@ -30,7 +30,7 @@
  <p align="center">
  Quantidade de visitas no meu perfil : 🕵 <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/matheussantosspbr/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/matheussanosspbr/count.svg" /></p>
 <p align="center">
 Obrigado e volte sempre! 😄
 </p>
