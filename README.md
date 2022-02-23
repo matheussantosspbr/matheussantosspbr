@@ -1,7 +1,7 @@
 ### Oiii, Eu sou o Matheus Santos !!!!
 ##
 - 🔭 Atualmente estou trabalhando na PicPay
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS, Python, React e TS
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS e Python
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu amo a área tecnológica, então tenho facilidade de aprender !
 
@@ -13,8 +13,6 @@
   <div style="display: flex; align-items: center;
   justify-content: center;"><br>
     <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
