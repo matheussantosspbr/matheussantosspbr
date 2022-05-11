@@ -28,7 +28,7 @@
 </div>
  
  <p align="center">
- Quantidade de visitas no meu perfil desde o dia 14/09/2004 : 🕵 <br></p>
+ Quantidade de visitas no meu perfil desde o dia 14/09/2021 : 🕵 <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/matheussatnosspbr/count.svg" /></p>
 <p align="center">
