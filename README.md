@@ -1,7 +1,7 @@
 ### Oiii, Eu sou o Matheus Santos !!!!
 ##
 - 🔭 Atualmente estou trabalhando na PicPay
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS e Python
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS e PHP
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu amo a área tecnológica, então tenho facilidade de aprender !
 
