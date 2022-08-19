@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando na PicPay
 - 🌱 Atualmente estou aprendendo HTML, CSS, JS e PHP
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Eu amo a área tecnológica, então tenho facilidade de aprender !
+- ⚡ Curiosidade: Eu amo a área tecnológica e tenho prazer no que faço !
 
 <div>
     <a href="https://github.com/matheussantosspbr">
