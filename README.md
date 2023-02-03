@@ -1,6 +1,5 @@
 ### Oiii, Eu sou o Matheus Santos !!!!
 ##
-- 🔭 Atualmente estou trabalhando na PicPay
 - 🌱 Atualmente estou aprendendo Laravel e React.js
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu amo a área tecnológica e tenho prazer no que faço !
