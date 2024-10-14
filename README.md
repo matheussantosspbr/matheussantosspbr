@@ -1,6 +1,6 @@
 ### Oiii, Eu sou o Matheus Santos !!!!
 ##
-- 🌱 Atualmente estou aprendendo Laravel e React.js
+- 👨🏻‍💻 Desenvolvedor Laravel e React.TS
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu amo a área tecnológica e tenho prazer no que faço !
 
