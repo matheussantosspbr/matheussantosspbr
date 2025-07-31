@@ -3,6 +3,7 @@
 - 👨🏻‍💻 Desenvolvedor Laravel e React.TS
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Eu amo a área tecnológica e tenho prazer no que faço !
+- 💪🏻 Pontos Fortes: Extremamente curioso, autodidata e adaptáveis, gosto bastante de aprender novas tecnologias.
 
 <div>
     <a href="https://github.com/matheussantosspbr">
@@ -23,12 +24,7 @@
   <a href = "mailto:matheussantosspbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-santos-115bb1202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
- <p align="center">
- Quantidade de visitas no meu perfil desde o dia 14/09/2021 : 🕵 <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/matheussatnosspbr/count.svg" /></p>
-<p align="center">
+
 Obrigado e volte sempre! 😄
 </p>
  
