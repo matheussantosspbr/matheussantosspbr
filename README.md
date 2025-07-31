@@ -6,8 +6,8 @@
 
 <div>
     <a href="https://github.com/matheussantosspbr">
-    <img height="152em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheussantosspbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="152em"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheussantosspbr&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=matheussantosspbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosspbr&layout=compact&langs_count=16&theme=dark"/
   </div>
   <div style="display: flex; align-items: center;
   justify-content: center;"><br>
