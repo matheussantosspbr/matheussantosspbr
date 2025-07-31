@@ -6,7 +6,6 @@
 
 <div>
     <a href="https://github.com/matheussantosspbr">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=matheussantosspbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosspbr&layout=compact&langs_count=16&theme=dark"/
   </div>
   <div style="display: flex; align-items: center;
