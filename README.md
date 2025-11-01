@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61DBFB&section=header&textBg=false&fontColor=ffffff&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61DAFB&section=header&textBg=false&fontColor=ffffff&fontAlign=50"/>
 
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
@@ -8,36 +8,43 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&pause=1000&color=61DBFB&width=435&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG" />
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&pause=1000&color=61DBFB&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG" />
 </div>
 
-<div>
+<div align="center" >
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussantosspbr&theme=react" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=matheussantosspbr&theme=react&hide_border=true&card_width=340&card_height=200" />
+</div>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheussantosspbr&theme=react" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheussantosspbr&theme=react&utcOffset=8" />
+</div>
+<div width="100%" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantosspbr&theme=react" />
 </div>
 
-<div>
-    <a href="https://github.com/matheussantosspbr">
-    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosspbr&layout=compact&langs_count=16&theme=dark"/
-  </div>
-  <div style="display: flex; align-items: center;
-  justify-content: center;"><br>
-    <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Math-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  </div>
-  ###
+<br/>
+
+<div align="center">
+
+  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,react,next,mysql,php,laravel,jquery)](https://skillicons.dev)
   
-<div>
-  <a href="https://www.instagram.com/matheus_santos_oficial.br/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheussantosspbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-santos-115bb1202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-Obrigado e volte sempre! 😄
-</p>
- 
- ![Snake animation](https://github.com/matheussantosspbr/matheussantosspbr/blob/output/github-contribution-grid-snake.svg)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61DBFB&section=footer&textBg=false&fontColor=ffffff&fontAlign=50"/>
+  
+<div align="center">
+  <a href="mailto:matheussantosspbr@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-20232A?style=for-the-badge&logo=gmail&logoColor=61DAFB" target="_blank">
+  </a>
+
+  <a href = "mailto:matheussantosspbr@gmail.com" style="margin:5px">
+    <img src="https://img.shields.io/badge/linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB&cacheSeconds=%3D" target="_blank">
+  </a>
+</div>
+<br>
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=matheussantosspbr&style=circlee&color=61DAFB" /></p> 
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61DAFB&section=footer&textBg=false&fontColor=ffffff&fontAlign=50"/>
