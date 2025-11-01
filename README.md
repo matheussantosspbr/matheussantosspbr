@@ -1,9 +1,20 @@
-### Oiii, Eu sou o Matheus Santos !!!!
-##
-- 👨🏻‍💻 Desenvolvedor Laravel e React.TS
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Eu amo a área tecnológica e tenho prazer no que faço !
-- 💪🏻 Pontos Fortes: Extremamente curioso, autodidata e adaptáveis, gosto bastante de aprender novas tecnologias.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61DBFB&section=header&textBg=false&fontColor=ffffff&fontAlign=50"/>
+
+<div align="center">
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Matheus Santos</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&pause=1000&color=61DBFB&width=435&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG" />
+</div>
+
+<div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantosspbr&theme=react" />
+</div>
 
 <div>
     <a href="https://github.com/matheussantosspbr">
@@ -29,3 +40,4 @@ Obrigado e volte sempre! 😄
 </p>
  
  ![Snake animation](https://github.com/matheussantosspbr/matheussantosspbr/blob/output/github-contribution-grid-snake.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=61DBFB&section=footer&textBg=false&fontColor=ffffff&fontAlign=50"/>
