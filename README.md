@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&pause=1000&color=61DBFB&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG" />
 </div>
 
 <div align="center" >
@@ -20,7 +20,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheussantosspbr&theme=react" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheussantosspbr&theme=react&utcOffset=8" />
 </div>
-<div width="100%" align="center">
+<div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheussantosspbr&theme=react" />
 </div>
 
