@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/gmail-20232A?style=for-the-badge&logo=gmail&logoColor=61DAFB" target="_blank">
   </a>
 
-  <a href = "mailto:matheussantosspbr@gmail.com" style="margin:5px">
+  <a href = "https://www.linkedin.com/in/matheussantosspbr" style="margin:5px">
     <img src="https://img.shields.io/badge/linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB&cacheSeconds=%3D" target="_blank">
   </a>
 </div>
