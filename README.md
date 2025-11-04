@@ -14,7 +14,7 @@
 
 <div align="center" >
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheussantosspbr&theme=react" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=matheussantosspbr&theme=react&hide_border=true&card_width=340&card_height=200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheussantosspbr&theme=react&hide_border=true&card_width=340&card_height=200" />
 </div>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheussantosspbr&theme=react" />
