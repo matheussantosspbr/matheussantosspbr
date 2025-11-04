@@ -28,7 +28,7 @@
 
 <div align="center">
 
-  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,react,next,mysql,php,laravel,jquery)](https://skillicons.dev)
+  [![SkillIcons](https://skillicons.dev/icons?i=html,js,jquery,ts,react,next,nodejs,css,tailwind,prisma,mysql,postgresql,php,laravel)](https://skillicons.dev)
   
 </div>
 
