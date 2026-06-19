@@ -27,11 +27,16 @@
 <br/>
 
 <div align="center">
-
-  [![SkillIcons](https://skillicons.dev/icons?i=html,js,jquery,ts,react,next,nodejs,css,tailwind,prisma,mysql,postgresql,php,laravel,redis,docker,nestjs)](https://skillicons.dev)
-  
+  <samp>
+      <br>
+      Hi there! I'm <b>Matheus Santos</b>
+  </samp>
+  <div align="center" margin-botton="20px">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,jquery,ts,react,vite,next,nodejs,css,tailwind,prisma,mysql,postgresql,php,laravel,redis,docker,nestjs,nginx,cloudflare,git,github,bootstrap,discord,discordjs,bots,express,fastapi,githubactions,postman&perline=12"/>
+    </a>
+  </div>
 </div>
-
   
 <div align="center">
   <a href="mailto:matheussantosspbr@gmail.com">
